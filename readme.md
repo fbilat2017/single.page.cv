@@ -1,1 +1,1 @@
-https://github.com/fbilat2017/single.page.cv.git
+https://roadmap.sh/projects/single-page-cv
